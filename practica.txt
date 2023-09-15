@@ -1,0 +1,2 @@
+Hola, esta es una practica para el curso de Git en Platzi.
+
